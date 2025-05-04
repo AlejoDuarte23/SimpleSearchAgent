@@ -1,0 +1,4 @@
+openai-agents
+fastmcp
+duckduckgo-search
+python-dotenv
